@@ -2,16 +2,16 @@
 	"name": "RemRem",
 	"author": "L+RATIO#1000",
 	"version": "4.2.0",
-	"description": "Your bunk ass theme... Now with BLUR!",
+	"description": "For all anime Fans",
 	"authors": [ 
 		{
-			"name": "NEO",
+			"name": "Rem",
 			"id": "424806150702366723"
 		}
 	],
 	"background": {
 		"blur": "1",
-		"url": "https://www.deviantart.com/steamytomato/art/Rem-Re-Zero-Fanart-623494241",
+		"url": "https://ibb.co/MB4YPfd",
 		"alpha": "0.69"
 	},
 	"theme_color_map": {
